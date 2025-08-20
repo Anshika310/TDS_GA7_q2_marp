@@ -25,7 +25,8 @@ Presented by: Technical Writer
 
 ---
 
-<!-- _backgroundImage: url('images/tds_bg_1.jpg') -->
+![bg](images/tds_bg_1.jpg)
+
 
 ## System Architecture
 
